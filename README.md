@@ -1,2 +1,2 @@
-# shop-php
+# SHOP
  Shop in PHP
